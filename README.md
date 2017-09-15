@@ -7,7 +7,8 @@ This project showcases skills I learned from Udacity, including:
 - Recognizing data leak problem and provide solutions
 - Feature engineering, Exploratory data analysis (EDA) and Preprocessing
 - Choosing suitable supervised models based on EDA (Random Forest, Extra Tree Classifier, XGBoost)
-- Hyper parameter tuning with grid search + cross validation and model comparison
+- Hyper parameter tuning with grid search + cross validation 
+- Model evaluation and comparison
 - Basic ensemble stacking implementation.
 - Improvements
 
